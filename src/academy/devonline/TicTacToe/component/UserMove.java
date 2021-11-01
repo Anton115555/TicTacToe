@@ -6,6 +6,7 @@ import academy.devonline.TicTacToe.model.GameTable;
 import java.util.Scanner;
 
 public class UserMove {
+
     private final char[][] mapping = {
             {'7', '8', '9'},
             {'4', '5', '6'},
@@ -43,3 +44,4 @@ public class UserMove {
         }
     }
 }
+
