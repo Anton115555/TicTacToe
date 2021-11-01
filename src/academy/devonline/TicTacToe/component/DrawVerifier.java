@@ -1,4 +1,6 @@
-package academy.devonline.TicTacToe;
+package academy.devonline.TicTacToe.component;
+
+import academy.devonline.TicTacToe.model.GameTable;
 
 public class DrawVerifier {
 

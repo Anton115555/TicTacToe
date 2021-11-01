@@ -1,5 +1,7 @@
 package academy.devonline.TicTacToe;
 
+import academy.devonline.TicTacToe.component.*;
+
 public final class Launcher {
 
     public static void main(final String[] args) {
